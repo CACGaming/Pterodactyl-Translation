@@ -1,6 +1,6 @@
 # THIS IS INCOMPLETE
 
-# Pterodactyl Translation
+# Pterodactyl Translation System
  Pterodactyl translation system using react-i18n and i18next
 
 ## Install
