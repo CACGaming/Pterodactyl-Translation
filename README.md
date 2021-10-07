@@ -3,4 +3,4 @@
 
 ## Install
 - Replace files
-- Run yarn add i18next-browser-languagedetector i18next-http-backend
+- Run ```yarn add i18next-browser-languagedetector i18next-http-backend```
