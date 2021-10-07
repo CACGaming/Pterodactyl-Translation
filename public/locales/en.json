@@ -1,4 +1,15 @@
 {
     "Account Overview" : "Account Overview",
-    "Change Password" : "Change EN Password"
+    "2-Factor Required" : "2-Factor Required",
+    "Your account must have two-factor authentication enabled in order to continue" : "Your account must have two-factor authentication enabled in order to continue.",
+    "Change Password" : "Change Password",
+    "Update Email Address" : "Update Email Address",
+    "Configure Two Factor" : "Configure Two Factor",
+
+    "Dashboard" : "Dashboard",
+    "Showing others' servers" : "Showing others' servers",
+    "Showing your servers" : "Showing your servers",
+    "There are no other servers to display" : "There are no other servers to display.",
+    "There are no servers associated with your account" : "There are no servers associated with your account."
+    
 }
