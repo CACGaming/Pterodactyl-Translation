@@ -11,11 +11,9 @@ i18n
     .use(LanguageDetector)
     .use(initReactI18next)
     .init({
-        debug: true,//process.env.NODE_ENV !== 'production',
+        debug: process.env.NODE_ENV !== 'production',
         fallbackLng: 'en-US',
-        interpolation: {
-            escapeValue: false
-        },
+
         backend: {
             backends: [
               LocalStorageBackend,
